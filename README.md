@@ -31,4 +31,21 @@ This is a study into the development of renewable energy and adoption patterns a
     - Interesting insights: 
         - United Kingdoms lowest year to year usage of renewables came directly after the highest
 
+Look into the amount of energy being provided in each country from year to year by each of the main sources of renewables: Wind, Solar, Geo Biomass, Hydro Generation: 
+
+- WIND: 
+<img width="1056" alt="Screenshot 2023-06-17 at 10 33 20 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/e8d5fdba-3574-4f9f-bd2b-55e6eab6cc08">
+
+- SOLAR
+<img width="1055" alt="Screenshot 2023-06-17 at 10 33 46 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/687a509c-f4d9-4e53-b42e-7cbbe301619f">
+
+- GEO BIOMASS: 
+<img width="1062" alt="Screenshot 2023-06-17 at 10 34 12 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/ddbe04e2-63d5-4ff6-b480-a26b46ec0f7c">
+
+- HYDRO: 
+<img width="1075" alt="Screenshot 2023-06-17 at 10 34 39 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/dc186163-ecab-4f80-b7e7-3d635519db40">
+
+
+
+
 

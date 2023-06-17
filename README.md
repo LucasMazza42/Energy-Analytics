@@ -59,7 +59,7 @@ Look into the amount of energy being provided in each country from year to year 
     - China in every category is producing the most amount of total energy.
 
 
-- Wind Turbine data in the USA: 
+- Wind Turbine data in the USA: data source: https://eerscmap.usgs.gov/uswtdb/api-doc/#keyValue
     <img width="689" alt="Screenshot 2023-06-17 at 11 01 16 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/f691ae14-5800-4736-a2f9-bd43e6a27392">
        - High concentration in central United States
 

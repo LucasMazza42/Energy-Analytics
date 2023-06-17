@@ -54,6 +54,25 @@ Look into the amount of energy being provided in each country from year to year 
 4) Solar capacity in each country - the ability and amount of solar energy a country is able to store: 
 <img width="1204" alt="Screenshot 2023-06-17 at 10 42 18 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/1a20d9ab-47ca-493f-8ea7-c86274956bbb">
 
+- Interesting insights: 
+    - China makes a big effort to produce alot of energy through renewable efforts, but represented as a percentage of the total energy produced. It still is not as much as say Canada. 
+    - China in every category is producing the most amount of total energy.
+
+
+- Wind Turbine data in the USA: 
+    <img width="689" alt="Screenshot 2023-06-17 at 11 01 16 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/f691ae14-5800-4736-a2f9-bd43e6a27392">
+       - High concentration in central United States
+
+- Age of manufacturing: 
+      <img width="1046" alt="Screenshot 2023-06-17 at 11 02 48 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/a2f40651-23a2-4665-96f0-b16aabf5883c">
+- Top 20 years of manufacturing: 
+<img width="1055" alt="Screenshot 2023-06-17 at 11 16 42 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/fb839f2b-5784-4876-bfd1-58715025ecc8">
+
+- Top 10 companies with the most amount of turbines in the USA:
+<img width="1141" alt="Screenshot 2023-06-17 at 11 10 05 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/d1901b0a-b0dc-4c64-bc52-fb87a659eb62">
+    - GE is the top producer
+    
+
 
 
 

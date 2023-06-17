@@ -61,6 +61,7 @@ Look into the amount of energy being provided in each country from year to year 
 
 - Wind Turbine data in the USA: data source: https://eerscmap.usgs.gov/uswtdb/api-doc/#keyValue
     <img width="689" alt="Screenshot 2023-06-17 at 11 01 16 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/f691ae14-5800-4736-a2f9-bd43e6a27392">
+       
        - High concentration in central United States
 
 - Age of manufacturing: 
@@ -71,6 +72,19 @@ Look into the amount of energy being provided in each country from year to year 
 - Top 10 companies with the most amount of turbines in the USA:
 <img width="1141" alt="Screenshot 2023-06-17 at 11 10 05 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/d1901b0a-b0dc-4c64-bc52-fb87a659eb62">
     - GE is the top producer
+    - AVG cost of wind turbine 2 to 4 million 
+- Wind turbine statisitcs:
+    - Costs are decreasing 
+        - Source: https://meic.org/cost-of-wind-vs-fossil-fuels/
+            - Wind turbine cost per megawatt-hour between $32 and $62 
+            - Coal cost per megawatt-hour between $57 and $148 
+    - Turbine capacity is increasing: 
+        - <img width="627" alt="Screenshot 2023-06-17 at 11 41 32 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/cabaed63-7fa8-4a8f-a762-8db53d3846d7">
+
+
+
+
+
     
 
 

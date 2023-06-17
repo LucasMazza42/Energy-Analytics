@@ -71,8 +71,11 @@ Look into the amount of energy being provided in each country from year to year 
 
 - Top 10 companies with the most amount of turbines in the USA:
 <img width="1141" alt="Screenshot 2023-06-17 at 11 10 05 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/d1901b0a-b0dc-4c64-bc52-fb87a659eb62">
+    
     - GE is the top producer
     - AVG cost of wind turbine 2 to 4 million 
+
+
 - Wind turbine statisitcs:
     - Costs are decreasing 
         - Source: https://meic.org/cost-of-wind-vs-fossil-fuels/

@@ -17,3 +17,13 @@ This is a study into the development of renewable energy and adoption patterns a
     - Canada surpasses all countries in the % of energy provided by renewable sources
 
 2) Biggest jump from year to year in each country: 
+<img width="879" alt="Screenshot 2023-06-17 at 10 26 50 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/525b8e79-a4b3-4840-be85-c89eb3517749">
+    - Interesting insights: 
+        - United kingdom has by far the biggest push in 2020 
+        - All biggest jumps came in 2020 - interesting due to covid-19 happening at the same time. 
+3) Smallest jump from year to year in each country: 
+        <img width="859" alt="Screenshot 2023-06-17 at 10 29 10 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/3b2c3eb5-c147-43c3-b900-8289197fbd92">
+    - Interesting insights: 
+        - United Kingdoms lowest year to year usage of renewables came directly after the highest
+
+

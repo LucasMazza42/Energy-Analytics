@@ -82,8 +82,7 @@ Look into the amount of energy being provided in each country from year to year 
             - Wind turbine cost per megawatt-hour between $32 and $62 
             - Coal cost per megawatt-hour between $57 and $148 
     - Turbine capacity is increasing: 
-        - <img width="627" alt="Screenshot 2023-06-17 at 11 41 32 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/cabaed63-7fa8-4a8f-a762-8db53d3846d7">
-
+        - <img width="1266" alt="Screenshot 2023-06-17 at 2 12 06 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/8a85834a-6d68-4425-a778-0a607d1b5d73">
 
 
 

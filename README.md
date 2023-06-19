@@ -104,7 +104,11 @@ ESTIMATING OPTIMAL WIND CONDITIONS:
 - Power vs wind direction: 
     - <img width="850" alt="Screenshot 2023-06-18 at 9 21 32 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/e6c5ca66-fce8-4dc6-9f3d-eadbf9bed799">
 
-- Model for predicting output power
+- Model for predicting output power:
+    - This MLR model aims to predict the amount of power given the windspeed and the direction of the wind: 
+    - <img width="852" alt="Screenshot 2023-06-18 at 9 28 52 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/ac04d7f4-f1c7-4146-8c70-91e519175db1">
+    - <img width="329" alt="Screenshot 2023-06-18 at 9 30 56 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/29967b19-9585-4df3-ae4d-dff9b14359f3">
+
 
 
 

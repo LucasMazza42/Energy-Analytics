@@ -98,6 +98,15 @@ ESTIMATING OPTIMAL WIND CONDITIONS:
     - Theoretical_Power_Curve (KWh): The theoretical power values that the turbine generates with that wind speed which is given by the turbine manufacturer
     - Wind Direction (°): The wind direction at the hub height of the turbine (wind turbines turn to this direction automaticly)
 
+- Power produced vs wind speed: 
+    - <img width="849" alt="Screenshot 2023-06-18 at 9 13 04 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/56a4f596-2001-481d-a6c5-17512aaab023">
+
+- Power vs wind direction: 
+    - <img width="978" alt="Screenshot 2023-06-18 at 9 15 34 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/ad6246c9-1c4a-44d3-961f-0ac4bec3af8c">
+
+
+- Model for predicting output power
+
 
 
 

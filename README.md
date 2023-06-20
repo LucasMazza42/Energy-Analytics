@@ -87,7 +87,7 @@ Look into the amount of energy being provided in each country from year to year 
     <img width="876" alt="Screenshot 2023-06-17 at 2 44 15 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/aecd1e19-005c-4af2-8985-0437015b32d1">
     
     
-ESTIMATING OPTIMAL WIND CONDITIONS: 
+ESTIMATING OPTIMAL CONDITIONS: 
 
 - Data collected from SCADA system in Turkey. Measurements were taken in 10 minute intervals. Source : https://www.kaggle.com/datasets/berkerisen/wind-turbine-scada-dataset
 
@@ -100,6 +100,8 @@ ESTIMATING OPTIMAL WIND CONDITIONS:
         - Wind turbine will automatically rotate in order to be in the direction to harvest the most amount of energy 
 - Power produced vs wind speed: 
     - <img width="978" alt="Screenshot 2023-06-18 at 9 15 34 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/ad6246c9-1c4a-44d3-961f-0ac4bec3af8c">
+    - looks similar to a Sigmoid distiribtion - this could be useful in prediction
+    
 
 - Power vs wind direction: 
     - <img width="853" alt="Screenshot 2023-06-20 at 2 41 37 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/886c90b3-d5ea-4b5f-852e-5c1c3cf6ea0d">

@@ -1,5 +1,5 @@
 # Renewable Energy Study
-This is a study into the development of renewable energy and adoption patterns around the world. 
+This is a study into the development of renewable energy and adoption patterns around the world as well as how we can best optimize renewable production.
 
 - The first part of my research looks into understand the adoption of renewable energy in: The United States, China, Russia, India, United Kingdom and Canada 
 - Let's first understand the dataset: 

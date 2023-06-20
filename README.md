@@ -102,7 +102,7 @@ ESTIMATING OPTIMAL WIND CONDITIONS:
     - <img width="978" alt="Screenshot 2023-06-18 at 9 15 34 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/ad6246c9-1c4a-44d3-961f-0ac4bec3af8c">
 
 - Power vs wind direction: 
-    - <img width="850" alt="Screenshot 2023-06-18 at 9 21 32 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/e6c5ca66-fce8-4dc6-9f3d-eadbf9bed799">
+    - <img width="853" alt="Screenshot 2023-06-20 at 2 41 37 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/886c90b3-d5ea-4b5f-852e-5c1c3cf6ea0d">
     - Not too many insights...high right skew just due to abundance of datapoints at specific angles of the hub - visual is a little miss leading
     - To drive the point home - this is a plot of the frequency of the wind direction in the dataset: 
         <img width="840" alt="Screenshot 2023-06-20 at 2 32 10 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/51dbce6e-5240-4850-b8a1-aeb1f502d21c">

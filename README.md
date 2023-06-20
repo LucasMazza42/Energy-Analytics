@@ -124,6 +124,11 @@ ESTIMATING OPTIMAL CONDITIONS:
         - Average difference between actual value and the predicted from the model - Sum of the average error 
         - ...more context is required to interpret this number in this situation
 
+- Optimal wind speed and direction over one year period: 
+<img width="366" alt="Screenshot 2023-06-20 at 3 05 18 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/337c0e9c-c795-422c-82b3-3d751a880ebc">
+- Visualized 
+<img width="528" alt="Screenshot 2023-06-20 at 3 05 43 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/87a65667-f912-41c8-a505-1d8c1c264265">
+
 
 
 

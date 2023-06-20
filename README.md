@@ -97,12 +97,17 @@ ESTIMATING OPTIMAL WIND CONDITIONS:
     - Wind Speed (m/s): The wind speed at the hub height of the turbine (the wind speed that turbine use for electricity generation)
     - Theoretical_Power_Curve (KWh): The theoretical power values that the turbine generates with that wind speed which is given by the turbine manufacturer
     - Wind Direction (°): The wind direction at the hub height of the turbine (wind turbines turn to this direction automaticly)
-
+        - Wind turbine will automatically rotate in order to be in the direction to harvest the most amount of energy 
 - Power produced vs wind speed: 
     - <img width="978" alt="Screenshot 2023-06-18 at 9 15 34 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/ad6246c9-1c4a-44d3-961f-0ac4bec3af8c">
 
 - Power vs wind direction: 
     - <img width="850" alt="Screenshot 2023-06-18 at 9 21 32 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/e6c5ca66-fce8-4dc6-9f3d-eadbf9bed799">
+    - Not too many insights...high right skew just due to abundance of datapoints at specific angles of the hub - visual is a little miss leading
+    - To drive the point home - this is a plot of the frequency of the wind direction in the dataset: 
+        <img width="840" alt="Screenshot 2023-06-20 at 2 32 10 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/51dbce6e-5240-4850-b8a1-aeb1f502d21c">
+     - The frequency of the angle of the hub is likely due to the weather patterns in the area. 
+
 
 - Model for predicting output power:
     - This MLR model aims to predict the amount of power given the windspeed and the direction of the wind: 

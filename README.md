@@ -54,6 +54,11 @@ Look into the amount of energy being provided in each country from year to year 
 4) Solar capacity in each country - the ability and amount of solar energy a country is able to store: 
 <img width="1204" alt="Screenshot 2023-06-17 at 10 42 18 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/1a20d9ab-47ca-493f-8ea7-c86274956bbb">
 
+5) Wind is the biggest producer in the US:
+   <img width="876" alt="Screenshot 2023-06-23 at 3 27 52 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/f8f8ad7e-2cdb-4423-a847-b5e0691ce6fd">
+
+    - We can see that among these renewables, wind is the one producing the most amount of total energy. 
+
 - Interesting insights: 
     - China makes a big effort to produce alot of energy through renewable efforts, but represented as a percentage of the total energy produced. It still is not as much as say Canada. 
     - China in every category is producing the most amount of total energy.

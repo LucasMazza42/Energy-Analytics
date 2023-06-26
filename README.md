@@ -24,14 +24,14 @@ This is a study into the development of renewable energy and adoption patterns a
 
    
    - Interesting insights: 
-        - United kingdom has by far the biggest push in 2020 
-        - All biggest jumps came in 2020 - interesting due to covid-19 happening at the same time. 
+        - United Kingdom has by far the biggest push in 2020 
+        - All the biggest jumps came in 2020 - interesting due to covid-19 happening at the same time. 
 3) Smallest jump from year to year in each country: 
    <img width="862" alt="Screenshot 2023-06-17 at 10 40 21 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/5da88c45-2b9c-4fd4-813f-1971960581eb">
     
     
     - Interesting insights: 
-        - United Kingdoms lowest year to year usage of renewables came directly after the highest
+        - United Kingdoms' lowest year to year usage of renewables came directly after the highest
 
 Look into the amount of energy being provided in each country from year to year by each of the main sources of renewables: Wind, Solar, Geo Biomass, Hydro Generation: 
 
@@ -60,14 +60,16 @@ Look into the amount of energy being provided in each country from year to year 
     - We can see that among these renewables, wind is the one producing the most amount of total energy. 
 
 - Interesting insights: 
-    - China makes a big effort to produce alot of energy through renewable efforts, but represented as a percentage of the total energy produced. It still is not as much as say Canada. 
+    - China makes a big effort to produce a lot of energy through renewable efforts but is represented as a percentage of the total energy produced. It still is not as much as say Canada. 
     - China in every category is producing the most amount of total energy.
 
+This section will take more of a look into the details of wind generation: 
 
 - Wind Turbine data in the USA: data source: https://eerscmap.usgs.gov/uswtdb/api-doc/#keyValue
+      - The website listed provides much more information about the details of the dataset.
     <img width="689" alt="Screenshot 2023-06-17 at 11 01 16 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/f691ae14-5800-4736-a2f9-bd43e6a27392">
-       
-       - High concentration in central United States
+      - Plotted position of all turbines in the US
+      - High concentration in the central United States
 
 - Age of manufacturing: 
       <img width="1046" alt="Screenshot 2023-06-17 at 11 02 48 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/a2f40651-23a2-4665-96f0-b16aabf5883c">
@@ -81,11 +83,11 @@ Look into the amount of energy being provided in each country from year to year 
     - AVG cost of wind turbine 2 to 4 million 
 
 
-- Wind turbine statisitcs:
+- Wind turbine statistics:
     - Costs are decreasing 
         - Source: https://meic.org/cost-of-wind-vs-fossil-fuels/
-            - Wind turbine cost per megawatt-hour between $32 and $62 
-            - Coal cost per megawatt-hour between $57 and $148 
+            - Wind turbine cost per megawatt-hour is between $32 and $62 
+            - Coal cost per megawatt-hour is between $57 and $148 
     - Turbine capacity is increasing: 
         - <img width="1266" alt="Screenshot 2023-06-17 at 2 12 06 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/8a85834a-6d68-4425-a778-0a607d1b5d73">  
     - Growth of the amount of turbines in the US: 

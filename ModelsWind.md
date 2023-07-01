@@ -47,4 +47,19 @@ ESTIMATING OPTIMAL CONDITIONS:
 -<img width="528" alt="Screenshot 2023-06-20 at 3 05 43 PM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/87a65667-f912-41c8-a505-1d8c1c264265">
 
 
-- Using XGboost to predict theoretical energy output 
+- Using XGboost to predict theoretical energy output: 
+    - Simply put, XGboost is a machine learning algorithm that combines multiple weaker classifers to create one stronger predictor. 
+    - It's kinda like if you have a group of friends participating in a game show. You would want each person to be skilled in different areas to create the best team. 
+    - In summary as shown in the MLR model, the expeceted amount of energy is super predictable, and the model was extremely accurate. 
+    - When it comes to building machine learning models there are some features in the dataset that are more important than others: 
+        - Here is the data for out dataset: 
+            Wind Speed (m/s): 3280.0
+            Date/Time: 241.0
+            Wind Direction (°): 151.0
+            LV ActivePower (kW): 135.0
+        - We can say that wind speed is the work horse. We would be able to predict the theoretical power with only windspeed. 
+        - The other features are important, but not nearly as much as wind speed. 
+    - As discussed before we have R^2 and MSE values: 
+        - Our R^2 was .99 and MSE was extremely low at 1.6
+        - This indicates that our model is extremely powerful, but can also indicate a case of overfitting. 
+

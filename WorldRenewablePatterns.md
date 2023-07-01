@@ -1,10 +1,10 @@
-# Renewable Energy Study
+# Research into world renewable energy growth
 This is a study into the development of renewable energy and adoption patterns around the world as well as how we can best optimize renewable production.
 
-- The first part of my research looks into understand the adoption of renewable energy in: The United States, China, Russia, India, United Kingdom and Canada 
+- The first part of my research looks into understanding the adoption of renewable energy in The United States, China, Russia, India, the United Kingdom, and Canada 
 - Let's first understand the dataset: 
 - understanding the data: 
-    - Entity: is the name of the contry
+    - Entity: is the name of the country
     - Code: code for the country 
     - Year: year studied - Updated to 2021
     - Renewables (% equivalent primary energy): The value for this indicator represents the percentage of energy consumed from renewable sources relative to the total energy consumed from all sources
@@ -16,7 +16,7 @@ This is a study into the development of renewable energy and adoption patterns a
 
 - Interesting insights: 
     - Canada and India peaked much earlier than other countries
-    - United kindgdom has has rapid growth from 2000 to 2021
+    - United kingdom has has rapid growth from 2000 to 2021
     - Canada surpasses all countries in the % of energy provided by renewable sources
 
 2) Biggest jump from year to year in each country: 
@@ -31,9 +31,9 @@ This is a study into the development of renewable energy and adoption patterns a
     
     
     - Interesting insights: 
-        - United Kingdoms' lowest year to year usage of renewables came directly after the highest
+        - United Kingdoms' lowest year-to-year usage of renewables came directly after the highest
 
-Look into the amount of energy being provided in each country from year to year by each of the main sources of renewables: Wind, Solar, Geo Biomass, Hydro Generation: 
+Look into the amount of energy being provided in each country from year to year by each of the main sources of renewables: Wind, Solar, Geo Biomass, and Hydro Generation: 
 
 - WIND: 
 <img width="1047" alt="Screenshot 2023-06-17 at 10 41 04 AM" src="https://github.com/LucasMazza42/RenewableEnergy/assets/47802441/951b936c-9767-4cc7-8684-53b212aa644c">
